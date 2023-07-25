@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an Integrated PhD student in <a href="https://rcv.uos.ac.kr/" style="color: #009B8B; text-decoration:none">**Robotics and Computer Vision Lab (RCV)**</a> at University of Seoul (UOS). 
-
+I'm a Integrated PhD student in <a href="https://rcv.uos.ac.kr/" style="color: #009B8B; text-decoration:none">**Robotics and Computer Vision Lab**</a> at UOS, under the guidance of Prof. Jiyoung Jung.
 
 I'm interested in 3D vision using point cloud data.
 - Computer Vision
