@@ -42,13 +42,14 @@ Dept. of Statistics, University of Seoul, 2020 -->
 
 <!-- ## Work Experiences -->
 
-## Publications (International)
-(<span style="color:darkred">*conference*</span>, <span style="color: #3700FF">*journal*</span>)
+## Publications
+<!-- (<span style="color:darkred">*conference*</span>, <span style="color: #3700FF">*journal*</span>) -->
 
 - **BlackVIP: Black-Box Visual Prompting for Robust Transfer Learning** \\
 <a href="https://arxiv.org/abs/2303.14773" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/changdaeoh/BlackVIP" style="color: #009B8B; text-decoration: none;">[code]</a> \\
-<u>Changdae Oh</u>, Hyeji Hwang, Hee-young Lee, YongTaek Lim, Geunyoung Jung, Jiyoung Jung, Hosik Choi, Kyungwoo Song \\
-<span style="color:darkred">**CVPR**</span> 2023
+Changdae Oh, Hyeji Hwang, Hee-young Lee, YongTaek Lim, <u>Geunyoung Jung</u>, Jiyoung Jung, Hosik Choi, Kyungwoo Song \\
+**CVPR** 2023
+<!-- <span style="color:darkred">**CVPR**</span> 2023 -->
 
 <!-- ## Publications (Domestic) -->
 
