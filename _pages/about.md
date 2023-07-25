@@ -8,22 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Integrated PhD student at <a href="https://rcv.uos.ac.kr/" style="color: #009B8B; text-decoration:none">**Robotics and Computer Vision Lab**</a> in UOS, under the supervision of <a href="https://scholar.google.com/citations?user=wc_MQkoAAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Prof. Jiyoung Jung**</a>. 
+I'm an Integrated PhD student in <a href="https://rcv.uos.ac.kr/" style="color: #009B8B; text-decoration:none">**Robotics and Computer Vision Lab (RCV)**</a> at University of Seoul (UOS). 
 
 
 I'm interested in 3D vision using point cloud data.
 - Computer Vision
 - Semantic Segmentation
-- Point Cloud Processing
+- Open-vocabulary
 
-## News
-Feb. 2023. One paper accepted to <a href="https://cvpr2023.thecvf.com/" style="color: #009B8B; text-decoration:none">**CVPR 2023**</a> \\
+<!-- ## News
+Feb. 2023. One paper accepted to <a href="https://cvpr2023.thecvf.com/" style="color: #009B8B; text-decoration:none">**CVPR 2023**</a> -->
 
 ## Education
-- **Integrated PhD** in Artificial Intelligence, <a href="https://english.uos.ac.kr/" style="color: #009B8B; text-decoration: none;">**University of Seoul (UOS)**</a> \\
-Mar. 2022 - 
+- **Integrated PhD** in Artificial Intelligence, University of Seoul \\
+Mar. 2022 - present
 
-- **B.S.** in Physics, <a href="https://english.uos.ac.kr/" style="color: #009B8B; text-decoration: none;">**University of Seoul (UOS)**</a> \\
+- **B.S.** in Physics, University of Seoul \\
 Mar. 2016 - Feb. 2022
 
 
@@ -50,7 +50,7 @@ Dept. of Statistics, University of Seoul, 2020 -->
 <u>Changdae Oh</u>, Hyeji Hwang, Hee-young Lee, YongTaek Lim, Geunyoung Jung, Jiyoung Jung, Hosik Choi, Kyungwoo Song \\
 <span style="color:darkred">**CVPR**</span> 2023
 
-## Publications (Domestic)
+<!-- ## Publications (Domestic) -->
 
 <!--   , <span style="color:red">_Spotlight Presentation_</span> (acceptance = 176 / 3391 = 5.1%)  -->
 
@@ -59,7 +59,7 @@ Dept. of Statistics, University of Seoul, 2020 -->
 ## Workshop Publication
  -->
 
-## Preprints
+<!-- ## Preprints -->
 
 <!-- ## Invited Talks -->
 
