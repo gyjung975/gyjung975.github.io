@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <!-- I'm a Integrated PhD student in <u><a href="https://rcv.uos.ac.kr/" style="color: #009B8B; text-decoration:none">Robotics and Computer Vision Lab</a></u> at UOS, under the guidance of Prof. Jiyoung Jung. -->
-Hi! I'm a Integrated PhD student in [Robotics and Computer Vision Lab](https://rcv.uos.ac.kr) at UOS, under the guidance of Prof. Jiyoung Jung.
+Hi! I'm a Integrated PhD student in [Robotics and Computer Vision Lab](https://sites.google.com/view/rcvuos/home) at UOS, under the guidance of Prof. Jiyoung Jung.
 
 
 I'm interested in 3D vision using point cloud data.
