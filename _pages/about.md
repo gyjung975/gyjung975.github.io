@@ -48,7 +48,7 @@ Dept. of Statistics, University of Seoul, 2020 -->
 
 - **Enhancing Visual Classification using Comparative Descriptors** \\
 <!-- <u><a href="https://arxiv.org/abs/2303.14773" style="color: #009B8B; text-decoration: none;">[paper]</a></u> <u><a href="https://github.com/changdaeoh/BlackVIP" style="color: #009B8B; text-decoration: none;">[code]</a></u> \\ -->
-[paper] [code] \\
+[[paper](https://arxiv.org/abs/2411.05357)] [[code](https://github.com/hk1ee/Comparative-CLIP)] \\
 Hankyeol Lee, Gawon Seo, <u>Geunyoung Jung</u>, Kyungwoo Song, Jiyoung Jung \\
 **WACV** 2025
 
