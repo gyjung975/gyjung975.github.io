@@ -9,13 +9,10 @@ redirect_from:
 ---
 
 <!-- I'm a Integrated PhD student in <u><a href="https://rcv.uos.ac.kr/" style="color: #009B8B; text-decoration:none">Robotics and Computer Vision Lab</a></u> at UOS, under the guidance of Prof. Jiyoung Jung. -->
-Hi! I'm a Integrated PhD student in [Robotics and Computer Vision Lab](https://sites.google.com/view/rcvuos/home) at UOS, under the guidance of Prof. Jiyoung Jung.
+Hi! I am a Integrated PhD student in [Robotics and Computer Vision Lab](https://sites.google.com/view/rcvuos/home) at University of Seoul, under the guidance of Prof. Jiyoung Jung.
 
-
-I'm interested in 3D vision using point cloud data.
-- Computer Vision
-- Semantic Segmentation
-- Open-vocabulary
+My research interest focuses on **practical adaptation of 3D foundation models**, aiming for their robust and efficient deployment in diverse real-world applications.
+<!-- - 3D point cloud -->
 
 <!-- ## News
 Feb. 2023. One paper accepted to <a href="https://cvpr2023.thecvf.com/" style="color: #009B8B; text-decoration:none">**CVPR 2023**</a> -->
@@ -43,7 +40,7 @@ Dept. of Statistics, University of Seoul, 2020 -->
 
 <!-- ## Work Experiences -->
 
-## Publications
+## Publications (conferences)
 <!-- (<span style="color:darkred">*conference*</span>, <span style="color: #3700FF">*journal*</span>) -->
 
 - **Enhancing Visual Classification using Comparative Descriptors** \\
@@ -59,24 +56,22 @@ Changdae Oh, Hyeji Hwang, Hee-young Lee, YongTaek Lim, <u>Geunyoung Jung</u>, Ji
 **CVPR** 2023
 <!-- <span style="color:darkred">**CVPR**</span> 2023 -->
 
-<!-- ## Publications (Domestic) -->
+<!-- ## Publications (journals) -->
 
 <!--   , <span style="color:red">_Spotlight Presentation_</span> (acceptance = 176 / 3391 = 5.1%)  -->
 
 <!-- ## Domestic Conference Publication
 
-## Workshop Publication
- -->
-
 <!-- ## Preprints -->
 
 <!-- ## Invited Talks -->
 
+## Academic Services
+- Conference Reviewer: CVPR 2025, BMVC 2025
 <!-- ## Academic Services
 **Conference Reviewer**
 - 
 - **KDD** Student Volunteer, 2022 -->
-
 
 ## Projects
 - Trustworthy AI Model Research Using Causal Inference, June. 2022 - 
