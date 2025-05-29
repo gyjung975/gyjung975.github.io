@@ -60,18 +60,12 @@ Changdae Oh, Hyeji Hwang, Hee-young Lee, YongTaek Lim, <u>Geunyoung Jung</u>, Ji
 
 <!--   , <span style="color:red">_Spotlight Presentation_</span> (acceptance = 176 / 3391 = 5.1%)  -->
 
-<!-- ## Domestic Conference Publication
-
 <!-- ## Preprints -->
 
 <!-- ## Invited Talks -->
 
 ## Academic Services
 - Conference Reviewer: CVPR 2025, BMVC 2025
-<!-- ## Academic Services
-**Conference Reviewer**
-- 
-- **KDD** Student Volunteer, 2022 -->
 
 ## Projects
 - Trustworthy AI Model Research Using Causal Inference, June. 2022 - 
