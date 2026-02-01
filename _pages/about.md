@@ -61,7 +61,7 @@ Dept. of Statistics, University of Seoul, 2020 -->
 - **Enhancing Visual Classification using Comparative Descriptors** \\
 <!-- <u><a href="https://arxiv.org/abs/2303.14773" style="color: #009B8B; text-decoration: none;">[paper]</a></u> <u><a href="https://github.com/changdaeoh/BlackVIP" style="color: #009B8B; text-decoration: none;">[code]</a></u> \\ -->
 [[paper](https://arxiv.org/abs/2411.05357)] [[code](https://github.com/hk1ee/Comparative-CLIP)] \\
-Hankyeol Lee, Gawon Seo, <u>Geunyoung Jung</u>, Kyungwoo Song, Jiyoung Jung \\
+Hankyeol Lee, Gawon Seo, Wonseok Choi, <u>Geunyoung Jung</u>, Kyungwoo Song, Jiyoung Jung \\
 **WACV** 2025
 
 - **BlackVIP: Black-Box Visual Prompting for Robust Transfer Learning** \\
@@ -69,6 +69,7 @@ Hankyeol Lee, Gawon Seo, <u>Geunyoung Jung</u>, Kyungwoo Song, Jiyoung Jung \\
 [[paper](https://arxiv.org/abs/2303.14773)] [[code](https://github.com/changdaeoh/BlackVIP)] \\
 Changdae Oh, Hyeji Hwang, Hee-young Lee, YongTaek Lim, <u>Geunyoung Jung</u>, Jiyoung Jung, Hosik Choi, Kyungwoo Song \\
 **CVPR** 2023
+
 <!-- <span style="color:darkred">**CVPR**</span> 2023 -->
 
 <!-- ## Publications (journals) -->
@@ -79,9 +80,14 @@ Changdae Oh, Hyeji Hwang, Hee-young Lee, YongTaek Lim, <u>Geunyoung Jung</u>, Ji
 
 <!-- ## Invited Talks -->
 
-## Academic Services
-- Conference Reviewer: CVPR 2025, BMVC 2025
+<!-- ## Experiences -->
 
-## Projects
+## Academic Services
+* Conference Reviewer: \\
+  * BMVC 2025 \\
+  * CVPR 2025
+
+<!-- ## Projects
 - Trustworthy AI Model Research Using Causal Inference, June. 2022 - 
 - Three-dimensional High-definition Mapping and Crowd-sourced Map Updating for Autonomous Driving, Dec. 2021 -
+ -->
