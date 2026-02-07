@@ -84,6 +84,7 @@ Changdae Oh, Hyeji Hwang, Hee-young Lee, YongTaek Lim, <u>Geunyoung Jung</u>, Ji
 
 ## Academic Services
 * Conference Reviewer:
+  * ICRA 2026
   * BMVC 2025
   * CVPR 2025
 
