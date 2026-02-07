@@ -83,8 +83,8 @@ Changdae Oh, Hyeji Hwang, Hee-young Lee, YongTaek Lim, <u>Geunyoung Jung</u>, Ji
 <!-- ## Experiences -->
 
 ## Academic Services
-* Conference Reviewer: \\
-  * BMVC 2025 \\
+* Conference Reviewer:
+  * BMVC 2025
   * CVPR 2025
 
 <!-- ## Projects
