@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About Me"
+title: ""
+excerpt: "Geunyoung Jung, UOS"
 author_profile: true
 redirect_from:
   - /about/
