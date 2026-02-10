@@ -12,7 +12,8 @@ redirect_from:
 Hi! I am a Integrated PhD student in [Robotics and Computer Vision Lab](https://sites.google.com/view/rcvuos/home) at University of Seoul, under the guidance of Prof. Jiyoung Jung.
 
 My research interest focuses on **practical adaptation of 3D foundation models**, aiming for their robust and efficient deployment in diverse real-world applications.
-<!-- - 3D point cloud -->
+
+[[CV](https://drive.google.com/file/d/1o555Oig62BkWsFE9O2VUXFnN_uTeMAdr/view?usp=sharing)]
 
 <!-- ## News
 Feb. 2023. One paper accepted to <a href="https://cvpr2023.thecvf.com/" style="color: #009B8B; text-decoration:none">**CVPR 2023**</a> -->
