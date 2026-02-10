@@ -46,32 +46,32 @@ Dept. of Statistics, University of Seoul, 2020 -->
 - **APC: Transferable and Efficient Adversarial Point Counterattack for Robust 3D Point Cloud Recognition** \\
 <!-- <u><a href="https://arxiv.org/abs/2303.14773" style="color: #009B8B; text-decoration: none;">[paper]</a></u> <u><a href="https://github.com/changdaeoh/BlackVIP" style="color: #009B8B; text-decoration: none;">[code]</a></u> \\ -->
 [paper] [code] \\
-<u>Geunyoung Jung</u>, Soohong Kim, Inseok Gong, Jiyoung Jung \\
+**Geunyoung Jung**, Soohong Kim, Inseok Kong, Jiyoung Jung \\
 **Under Review**
 
 - **ReCoD: Enhancing Image Description for Cross-Modal Understanding via Retrieval and Comparison Feedback Mechanism** \\
 <!-- <u><a href="https://arxiv.org/abs/2303.14773" style="color: #009B8B; text-decoration: none;">[paper]</a></u> <u><a href="https://github.com/changdaeoh/BlackVIP" style="color: #009B8B; text-decoration: none;">[code]</a></u> \\ -->
 [paper] [code] \\
-<u>Geunyoung Jung</u>, Jun Park, Hankyeol Lee, Kyungwoo Song, Jiyoung Jung \\
+**Geunyoung Jung**, Jun Park, Hankyeol Lee, Kyungwoo Song, Jiyoung Jung \\
 **Under Review**
 
 - **P<sup>3</sup>T: Prototypical Point-level Prompt Tuning with Enhanced Generalization for 3D Vision-Language Models** \\
 <!-- <u><a href="https://arxiv.org/abs/2303.14773" style="color: #009B8B; text-decoration: none;">[paper]</a></u> <u><a href="https://github.com/changdaeoh/BlackVIP" style="color: #009B8B; text-decoration: none;">[code]</a></u> \\ -->
 [paper] [[code](https://github.com/gyjung975/P3T)] \\
-<u>Geunyoung Jung</u>, Soohong Kim, Kyungwoo Song, Jiyoung Jung \\
+**Geunyoung Jung**, Soohong Kim, Kyungwoo Song, Jiyoung Jung \\
 **ICRA** 2026
 
 - **Enhancing Visual Classification using Comparative Descriptors** \\
 <!-- <u><a href="https://arxiv.org/abs/2303.14773" style="color: #009B8B; text-decoration: none;">[paper]</a></u> <u><a href="https://github.com/changdaeoh/BlackVIP" style="color: #009B8B; text-decoration: none;">[code]</a></u> \\ -->
 [[paper](https://arxiv.org/abs/2411.05357)] [[code](https://github.com/hk1ee/Comparative-CLIP)] \\
-Hankyeol Lee, Gawon Seo, Wonseok Choi, <u>Geunyoung Jung</u>, Kyungwoo Song, Jiyoung Jung \\
+Hankyeol Lee, Gawon Seo, Wonseok Choi, **Geunyoung Jung**, Kyungwoo Song, Jiyoung Jung \\
 **WACV** 2025
 
 - **BlackVIP: Black-Box Visual Prompting for Robust Transfer Learning** \\
 <!-- <u><a href="https://arxiv.org/abs/2303.14773" style="color: #009B8B; text-decoration: none;">[paper]</a></u> <u><a href="https://github.com/changdaeoh/BlackVIP" style="color: #009B8B; text-decoration: none;">[code]</a></u> \\ -->
 [[paper](https://arxiv.org/abs/2303.14773)] [[code](https://github.com/changdaeoh/BlackVIP)] \\
-Changdae Oh, Hyeji Hwang, Hee-young Lee, YongTaek Lim, <u>Geunyoung Jung</u>, Jiyoung Jung, Hosik Choi, Kyungwoo Song \\
-**CVPR** 2023
+Changdae Oh, Hyeji Hwang, Hee-young Lee, YongTaek Lim, **Geunyoung Jung**, Jiyoung Jung, Hosik Choi, Kyungwoo Song \\
+CVPR 2023
 
 <!-- <span style="color:darkred">**CVPR**</span> 2023 -->
 
