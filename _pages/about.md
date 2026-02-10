@@ -45,16 +45,19 @@ Dept. of Statistics, University of Seoul, 2020 -->
 
 - **APC: Transferable and Efficient Adversarial Point Counterattack for Robust 3D Point Cloud Recognition** \\
 <!-- <u><a href="https://arxiv.org/abs/2303.14773" style="color: #009B8B; text-decoration: none;">[paper]</a></u> <u><a href="https://github.com/changdaeoh/BlackVIP" style="color: #009B8B; text-decoration: none;">[code]</a></u> \\ -->
+[paper] [code] \\
 <u>Geunyoung Jung</u>, Soohong Kim, Inseok Gong, Jiyoung Jung \\
 **Under Review**
 
 - **ReCoD: Enhancing Image Description for Cross-Modal Understanding via Retrieval and Comparison Feedback Mechanism** \\
 <!-- <u><a href="https://arxiv.org/abs/2303.14773" style="color: #009B8B; text-decoration: none;">[paper]</a></u> <u><a href="https://github.com/changdaeoh/BlackVIP" style="color: #009B8B; text-decoration: none;">[code]</a></u> \\ -->
+[paper] [code] \\
 <u>Geunyoung Jung</u>, Jun Park, Hankyeol Lee, Kyungwoo Song, Jiyoung Jung \\
 **Under Review**
 
 - **P<sup>3</sup>T: Prototypical Point-level Prompt Tuning with Enhanced Generalization for 3D Vision-Language Models** \\
 <!-- <u><a href="https://arxiv.org/abs/2303.14773" style="color: #009B8B; text-decoration: none;">[paper]</a></u> <u><a href="https://github.com/changdaeoh/BlackVIP" style="color: #009B8B; text-decoration: none;">[code]</a></u> \\ -->
+[paper] [code] \\
 <u>Geunyoung Jung</u>, Soohong Kim, Kyungwoo Song, Jiyoung Jung \\
 **ICRA** 2026
 
