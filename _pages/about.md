@@ -57,7 +57,7 @@ Dept. of Statistics, University of Seoul, 2020 -->
 
 - **P<sup>3</sup>T: Prototypical Point-level Prompt Tuning with Enhanced Generalization for 3D Vision-Language Models** \\
 <!-- <u><a href="https://arxiv.org/abs/2303.14773" style="color: #009B8B; text-decoration: none;">[paper]</a></u> <u><a href="https://github.com/changdaeoh/BlackVIP" style="color: #009B8B; text-decoration: none;">[code]</a></u> \\ -->
-[paper] [code] \\
+[paper] [[code](https://github.com/gyjung975/P3T)] \\
 <u>Geunyoung Jung</u>, Soohong Kim, Kyungwoo Song, Jiyoung Jung \\
 **ICRA** 2026
 
