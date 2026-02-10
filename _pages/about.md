@@ -47,25 +47,25 @@ Dept. of Statistics, University of Seoul, 2020 -->
 <!-- <u><a href="https://arxiv.org/abs/2303.14773" style="color: #009B8B; text-decoration: none;">[paper]</a></u> <u><a href="https://github.com/changdaeoh/BlackVIP" style="color: #009B8B; text-decoration: none;">[code]</a></u> \\ -->
 [paper] [code] \\
 **Geunyoung Jung**, Soohong Kim, Inseok Kong, Jiyoung Jung \\
-**Under Review**
+Under Review
 
 - **ReCoD: Enhancing Image Description for Cross-Modal Understanding via Retrieval and Comparison Feedback Mechanism** \\
 <!-- <u><a href="https://arxiv.org/abs/2303.14773" style="color: #009B8B; text-decoration: none;">[paper]</a></u> <u><a href="https://github.com/changdaeoh/BlackVIP" style="color: #009B8B; text-decoration: none;">[code]</a></u> \\ -->
 [paper] [code] \\
 **Geunyoung Jung**, Jun Park, Hankyeol Lee, Kyungwoo Song, Jiyoung Jung \\
-**Under Review**
+Under Review
 
 - **P<sup>3</sup>T: Prototypical Point-level Prompt Tuning with Enhanced Generalization for 3D Vision-Language Models** \\
 <!-- <u><a href="https://arxiv.org/abs/2303.14773" style="color: #009B8B; text-decoration: none;">[paper]</a></u> <u><a href="https://github.com/changdaeoh/BlackVIP" style="color: #009B8B; text-decoration: none;">[code]</a></u> \\ -->
 [paper] [[code](https://github.com/gyjung975/P3T)] \\
 **Geunyoung Jung**, Soohong Kim, Kyungwoo Song, Jiyoung Jung \\
-**ICRA** 2026
+ICRA 2026
 
 - **Enhancing Visual Classification using Comparative Descriptors** \\
 <!-- <u><a href="https://arxiv.org/abs/2303.14773" style="color: #009B8B; text-decoration: none;">[paper]</a></u> <u><a href="https://github.com/changdaeoh/BlackVIP" style="color: #009B8B; text-decoration: none;">[code]</a></u> \\ -->
 [[paper](https://arxiv.org/abs/2411.05357)] [[code](https://github.com/hk1ee/Comparative-CLIP)] \\
 Hankyeol Lee, Gawon Seo, Wonseok Choi, **Geunyoung Jung**, Kyungwoo Song, Jiyoung Jung \\
-**WACV** 2025
+WACV 2025
 
 - **BlackVIP: Black-Box Visual Prompting for Robust Transfer Learning** \\
 <!-- <u><a href="https://arxiv.org/abs/2303.14773" style="color: #009B8B; text-decoration: none;">[paper]</a></u> <u><a href="https://github.com/changdaeoh/BlackVIP" style="color: #009B8B; text-decoration: none;">[code]</a></u> \\ -->
