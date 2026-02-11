@@ -13,7 +13,7 @@ Hi! I am a Integrated Ph.D student in [Robotics and Computer Vision Lab](https:/
 
 My research interest focuses on **practical adaptation of 3D foundation models**, aiming for their robust and efficient deployment in diverse real-world applications.
 
-[[CV](https://drive.google.com/file/d/1o555Oig62BkWsFE9O2VUXFnN_uTeMAdr/view?usp=sharing)]
+[[CV](https://drive.google.com/file/d/1auAvKvYIuAgyDUmECdR5O9QWu6Uj1h5s/view?usp=sharing)]
 
 <!-- ## News
 Feb. 2023. One paper accepted to <a href="https://cvpr2023.thecvf.com/" style="color: #009B8B; text-decoration:none">**CVPR 2023**</a> -->
