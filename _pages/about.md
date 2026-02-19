@@ -50,6 +50,12 @@ Dept. of Statistics, University of Seoul, 2020 -->
 **Geunyoung Jung**, Soohong Kim, Inseok Kong, Jiyoung Jung \\
 Under Review
 
+- **Robust Adaptation of Foundation Models with Black-Box Visual Prompting** \\
+<!-- <u><a href="https://arxiv.org/abs/2303.14773" style="color: #009B8B; text-decoration: none;">[paper]</a></u> <u><a href="https://github.com/changdaeoh/BlackVIP" style="color: #009B8B; text-decoration: none;">[code]</a></u> \\ -->
+[[paper](https://arxiv.org/abs/2407.17491)] [code] \\
+Changdae Oh, Gyeongdeok Seo, **Geunyoung Jung**, Zhi-Qi Cheng, Hosik Choi, Jiyoung Jung, Kyungwoo Song \\
+Under Review
+
 - **ReCoD: Enhancing Image Description for Cross-Modal Understanding via Retrieval and Comparison Feedback Mechanism** \\
 <!-- <u><a href="https://arxiv.org/abs/2303.14773" style="color: #009B8B; text-decoration: none;">[paper]</a></u> <u><a href="https://github.com/changdaeoh/BlackVIP" style="color: #009B8B; text-decoration: none;">[code]</a></u> \\ -->
 [[paper](https://www.sciencedirect.com/science/article/pii/S0925231226004224)] [[code](https://github.com/gyjung975/ReCoD)] \\
