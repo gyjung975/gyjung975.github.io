@@ -60,7 +60,7 @@ CVPR 2026 Findings
 <!-- <u><a href="https://arxiv.org/abs/2303.14773" style="color: #009B8B; text-decoration: none;">[paper]</a></u> <u><a href="https://github.com/changdaeoh/BlackVIP" style="color: #009B8B; text-decoration: none;">[code]</a></u> \\ -->
 [[paper](https://www.sciencedirect.com/science/article/pii/S0925231226004224)] [[code](https://github.com/gyjung975/ReCoD)] \\
 **Geunyoung Jung**, Jun Park, Hankyeol Lee, Kyungwoo Song, Jiyoung Jung \\
-Neurocomputing 2026 (SCIE, IF=6.5)
+Neurocomputing 2026 (SCIE, JCR 2024 IF=6.5)
 
 - **P<sup>3</sup>T: Prototypical Point-level Prompt Tuning with Enhanced Generalization for 3D Vision-Language Models** \\
 <!-- <u><a href="https://arxiv.org/abs/2303.14773" style="color: #009B8B; text-decoration: none;">[paper]</a></u> <u><a href="https://github.com/changdaeoh/BlackVIP" style="color: #009B8B; text-decoration: none;">[code]</a></u> \\ -->
