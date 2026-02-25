@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 <!-- I'm a Integrated PhD student in <u><a href="https://rcv.uos.ac.kr/" style="color: #009B8B; text-decoration:none">Robotics and Computer Vision Lab</a></u> at UOS, under the guidance of Prof. Jiyoung Jung. -->
-Hi! I am a Integrated Ph.D student in [Robotics and Computer Vision Lab](https://sites.google.com/view/rcvuos/home) at University of Seoul, under the guidance of Prof. Jiyoung Jung.
+Hi! I am a Integrated Ph.D student in [Robotics and Computer Vision Lab](https://sites.google.com/view/rcvuos/home) at University of Seoul, under the guidance of Prof. [Jiyoung Jung](https://rcv.uos.ac.kr/).
 
 My research interest focuses on **practical adaptation of 3D foundation models**, aiming for their robust and efficient deployment in diverse real-world applications.
 
-[[CV](https://drive.google.com/file/d/1auAvKvYIuAgyDUmECdR5O9QWu6Uj1h5s/view?usp=sharing)]
+[[CV](https://drive.google.com/file/d/1-bYv_vVAQeB28gsTZmEHkYZJRkNaV5SL/view?usp=sharing)]
 
 <!-- ## News
 Feb. 2023. One paper accepted to <a href="https://cvpr2023.thecvf.com/" style="color: #009B8B; text-decoration:none">**CVPR 2023**</a> -->
