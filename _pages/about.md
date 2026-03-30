@@ -48,7 +48,7 @@ Dept. of Statistics, University of Seoul, 2020 -->
 <!-- <u><a href="https://arxiv.org/abs/2303.14773" style="color: #009B8B; text-decoration: none;">[paper]</a></u> <u><a href="https://github.com/changdaeoh/BlackVIP" style="color: #009B8B; text-decoration: none;">[code]</a></u> \\ -->
 [[paper](https://arxiv.org/abs/2407.17491)] [code] \\
 Changdae Oh, Gyeongdeok Seo, **Geunyoung Jung**, Zhi-Qi Cheng, Hosik Choi, Jiyoung Jung, Kyungwoo Song \\
-Under Review
+TPAMI 2026 (SCIE, JCR 2024 IF=18.6)
 
 - **APC: Transferable and Efficient Adversarial Point Counterattack for Robust 3D Point Cloud Recognition** \\
 <!-- <u><a href="https://arxiv.org/abs/2303.14773" style="color: #009B8B; text-decoration: none;">[paper]</a></u> <u><a href="https://github.com/changdaeoh/BlackVIP" style="color: #009B8B; text-decoration: none;">[code]</a></u> \\ -->
