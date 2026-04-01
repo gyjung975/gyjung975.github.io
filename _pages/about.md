@@ -13,7 +13,7 @@ Hi! I am a Integrated Ph.D student in [Robotics and Computer Vision Lab](https:/
 
 My research interest focuses on **practical adaptation of 3D foundation models**, aiming for their robust and efficient deployment in diverse real-world applications.
 
-[[CV](https://drive.google.com/file/d/1cHjxE6ZqRr-y7-GbdAIex3tcAFRp54Gw/view?usp=sharing)]
+[[CV](https://drive.google.com/file/d/13O_UB-2_yxa44HBciJ8JTlpArw74hbdF/view?usp=sharing)]
 
 <!-- ## News
 Feb. 2023. One paper accepted to <a href="https://cvpr2023.thecvf.com/" style="color: #009B8B; text-decoration:none">**CVPR 2023**</a> -->
@@ -43,6 +43,12 @@ Dept. of Statistics, University of Seoul, 2020 -->
 
 ## Publications
 <!-- (<span style="color:darkred">*conference*</span>, <span style="color: #3700FF">*journal*</span>) -->
+
+- **MAMVI: 3D Test-Time Adaptation via Masked Multi-View Point Clouds** \\
+<!-- <u><a href="https://arxiv.org/abs/2303.14773" style="color: #009B8B; text-decoration: none;">[paper]</a></u> <u><a href="https://github.com/changdaeoh/BlackVIP" style="color: #009B8B; text-decoration: none;">[code]</a></u> \\ -->
+[paper] [code] \\
+Inseok Kong, **Geunyoung Jung**, Jiyoung Jung \\
+ICPR 2026
 
 - **Robust Adaptation of Foundation Models with Black-Box Visual Prompting** \\
 <!-- <u><a href="https://arxiv.org/abs/2303.14773" style="color: #009B8B; text-decoration: none;">[paper]</a></u> <u><a href="https://github.com/changdaeoh/BlackVIP" style="color: #009B8B; text-decoration: none;">[code]</a></u> \\ -->
