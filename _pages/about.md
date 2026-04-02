@@ -100,9 +100,9 @@ CVPR 2023
 
 ## Academic Services
 * Conference Reviewer:
+  * CVPR 2025, 2026
   * ICRA 2026
   * BMVC 2025
-  * CVPR 2025, 2026
 
 <!-- ## Projects
 - Trustworthy AI Model Research Using Causal Inference, June. 2022 - 
