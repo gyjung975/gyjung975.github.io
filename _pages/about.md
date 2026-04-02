@@ -44,6 +44,12 @@ Dept. of Statistics, University of Seoul, 2020 -->
 ## Publications
 <!-- (<span style="color:darkred">*conference*</span>, <span style="color: #3700FF">*journal*</span>) -->
 
+- **DIRECT: Distribution-aware Representation Regularization for 3D Test-Time Adaptation under Corruptions** \\
+<!-- <u><a href="https://arxiv.org/abs/2303.14773" style="color: #009B8B; text-decoration: none;">[paper]</a></u> <u><a href="https://github.com/changdaeoh/BlackVIP" style="color: #009B8B; text-decoration: none;">[code]</a></u> \\ -->
+[paper] [code] \\
+**Geunyoung Jung**, Inseok Kong, Jiyoung Jung \\
+Under review
+
 - **MAMVI: 3D Test-Time Adaptation via Masked Multi-View Point Clouds** \\
 <!-- <u><a href="https://arxiv.org/abs/2303.14773" style="color: #009B8B; text-decoration: none;">[paper]</a></u> <u><a href="https://github.com/changdaeoh/BlackVIP" style="color: #009B8B; text-decoration: none;">[code]</a></u> \\ -->
 [paper] [code] \\
