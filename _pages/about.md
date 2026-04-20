@@ -64,7 +64,7 @@ TPAMI 2026 (SCIE, JCR 2024 IF=18.6)
 
 - **APC: Transferable and Efficient Adversarial Point Counterattack for Robust 3D Point Cloud Recognition** \\
 <!-- <u><a href="https://arxiv.org/abs/2303.14773" style="color: #009B8B; text-decoration: none;">[paper]</a></u> <u><a href="https://github.com/changdaeoh/BlackVIP" style="color: #009B8B; text-decoration: none;">[code]</a></u> \\ -->
-[paper] [[code](https://github.com/gyjung975/APC)] \\
+[[paper](https://arxiv.org/abs/2604.15708)] [[code](https://github.com/gyjung975/APC)] \\
 **Geunyoung Jung**, Soohong Kim, Inseok Kong, Jiyoung Jung \\
 CVPR 2026 Findings
 
@@ -76,7 +76,7 @@ Neurocomputing 2026 (SCIE, JCR 2024 IF=6.5)
 
 - **P<sup>3</sup>T: Prototypical Point-level Prompt Tuning with Enhanced Generalization for 3D Vision-Language Models** \\
 <!-- <u><a href="https://arxiv.org/abs/2303.14773" style="color: #009B8B; text-decoration: none;">[paper]</a></u> <u><a href="https://github.com/changdaeoh/BlackVIP" style="color: #009B8B; text-decoration: none;">[code]</a></u> \\ -->
-[paper] [[code](https://github.com/gyjung975/P3T)] \\
+[[paper](https://arxiv.org/abs/2604.15703)] [[code](https://github.com/gyjung975/P3T)] \\
 **Geunyoung Jung**, Soohong Kim, Kyungwoo Song, Jiyoung Jung \\
 ICRA 2026
 
