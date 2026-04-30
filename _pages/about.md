@@ -107,6 +107,7 @@ CVPR 2023
 ## Academic Services
 * Conference Reviewer:
   * CVPR 2025, 2026
+  * ECCV 2026
   * ICRA 2026
   * BMVC 2025
 
