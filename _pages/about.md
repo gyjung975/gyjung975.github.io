@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <!-- I'm a Integrated PhD student in <u><a href="https://rcv.uos.ac.kr/" style="color: #009B8B; text-decoration:none">Robotics and Computer Vision Lab</a></u> at UOS, under the guidance of Prof. Jiyoung Jung. -->
-Hi! I am a Integrated Ph.D student in [Robotics and Computer Vision Lab](https://sites.google.com/view/rcvuos/home) at University of Seoul, under the guidance of Prof. [Jiyoung Jung](https://rcv.uos.ac.kr/).
+Hi! I am a Ph.D student in [Robotics and Computer Vision Lab](https://sites.google.com/view/rcvuos/home) at University of Seoul, under the guidance of Prof. [Jiyoung Jung](https://rcv.uos.ac.kr/).
 
 My research focuses on **robust and efficient adaptation of 3D foundation models** for reliable deployment in real-world applications. I am particularly interested in 3D understanding under **challenging conditions**, such as distribution shifts and resource constraints.
 
@@ -19,7 +19,7 @@ My research focuses on **robust and efficient adaptation of 3D foundation models
 Feb. 2023. One paper accepted to <a href="https://cvpr2023.thecvf.com/" style="color: #009B8B; text-decoration:none">**CVPR 2023**</a> -->
 
 ## Education
-- **Integrated Ph.D** in Artificial Intelligence, University of Seoul \\
+- **Ph.D** in Artificial Intelligence, University of Seoul \\
 Mar. 2022 - present
 
 - **B.S.** in Physics, University of Seoul \\
@@ -44,7 +44,7 @@ Dept. of Statistics, University of Seoul, 2020 -->
 ## Publications
 <!-- (<span style="color:darkred">*conference*</span>, <span style="color: #3700FF">*journal*</span>) -->
 
-- **DIRECT: Distribution-aware Representation Regularization for 3D Test-Time Adaptation under Corruptions** \\
+- **Mitigating Feature Collapse for Test-Time Adaptation of 3D VLMs via Distribution-Guided Regularization※ \\
 <!-- <u><a href="https://arxiv.org/abs/2303.14773" style="color: #009B8B; text-decoration: none;">[paper]</a></u> <u><a href="https://github.com/changdaeoh/BlackVIP" style="color: #009B8B; text-decoration: none;">[code]</a></u> \\ -->
 [paper] [code] \\
 **Geunyoung Jung**, Inseok Kong, Jiyoung Jung \\
