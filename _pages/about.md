@@ -13,7 +13,7 @@ Hi! I am a Ph.D student in [Robotics and Computer Vision Lab](https://sites.goog
 
 My research focuses on **robust and efficient adaptation of 3D foundation models** for reliable deployment in real-world applications. I am particularly interested in 3D understanding under **challenging conditions**, such as distribution shifts and resource constraints.
 
-[[CV](https://drive.google.com/file/d/1UuoRQkr4hlw5J0QM_pkx23wFwOPHKUb-/view?usp=sharing)]
+[[CV](https://drive.google.com/file/d/1m_-pTazG2kDDPKXpx5Zs_9-DUa4pQNL0/view?usp=sharing)]
 
 <!-- ## News
 Feb. 2023. One paper accepted to <a href="https://cvpr2023.thecvf.com/" style="color: #009B8B; text-decoration:none">**CVPR 2023**</a> -->
@@ -104,12 +104,13 @@ CVPR 2023
 
 <!-- ## Experiences -->
 
-## Academic Services
+## Academic Service
 * Conference Reviewer:
   * CVPR 2025, 2026
   * ECCV 2026
-  * ICRA 2026
   * NeurIPS 2026
+  * ICRA 2026
+  * WACV 2027
   * BMVC 2025
 
 <!-- ## Projects
