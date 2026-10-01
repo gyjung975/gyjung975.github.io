@@ -44,50 +44,44 @@ Dept. of Statistics, University of Seoul, 2020 -->
 ## Publications
 <!-- (<span style="color:darkred">*conference*</span>, <span style="color: #3700FF">*journal*</span>) -->
 
+<!-- 
 - **Class Topology Survives Corruption: Prior, Monitor, and Repair for 3D Continual Test-Time Adaptation** \\
-<!-- <u><a href="https://arxiv.org/abs/2303.14773" style="color: #009B8B; text-decoration: none;">[paper]</a></u> <u><a href="https://github.com/changdaeoh/BlackVIP" style="color: #009B8B; text-decoration: none;">[code]</a></u> \\ -->
-[paper] [code] \\
+[paper] [[code](https://github.com/gyjung975/ToCoTTA)] \\
 **Geunyoung Jung**, Inseok Kong, Jiyoung Jung \\
 Under review
 
 - **Mitigating Feature Collapse for Test-Time Adaptation of 3D VLMs via Distribution-Guided Regularization** \\
-<!-- <u><a href="https://arxiv.org/abs/2303.14773" style="color: #009B8B; text-decoration: none;">[paper]</a></u> <u><a href="https://github.com/changdaeoh/BlackVIP" style="color: #009B8B; text-decoration: none;">[code]</a></u> \\ -->
-[paper] [code] \\
+[paper] [[code](https://github.com/gyjung975/DGRe-FC)] \\
 **Geunyoung Jung**, Inseok Kong, Jiyoung Jung \\
 Under review
+-->
 
 - **MAMVI: 3D Test-Time Adaptation via Masked Multi-View Point Clouds** \\
-<!-- <u><a href="https://arxiv.org/abs/2303.14773" style="color: #009B8B; text-decoration: none;">[paper]</a></u> <u><a href="https://github.com/changdaeoh/BlackVIP" style="color: #009B8B; text-decoration: none;">[code]</a></u> \\ -->
-[paper] [code] \\
+[[paper](https://arxiv.org/abs/2606.12939)] [[code](https://github.com/Inseok-kong/MAMVI)] \\
 Inseok Kong, **Geunyoung Jung**, Jiyoung Jung \\
 ICPR 2026
 
 - **Robust Adaptation of Foundation Models with Black-Box Visual Prompting** \\
-<!-- <u><a href="https://arxiv.org/abs/2303.14773" style="color: #009B8B; text-decoration: none;">[paper]</a></u> <u><a href="https://github.com/changdaeoh/BlackVIP" style="color: #009B8B; text-decoration: none;">[code]</a></u> \\ -->
 [[paper](https://arxiv.org/abs/2407.17491)] [code] \\
 Changdae Oh, Gyeongdeok Seo, **Geunyoung Jung**, Zhi-Qi Cheng, Hosik Choi, Jiyoung Jung, Kyungwoo Song \\
 TPAMI 2026 (SCIE, JCR 2024 IF=18.6)
 
 - **APC: Transferable and Efficient Adversarial Point Counterattack for Robust 3D Point Cloud Recognition** \\
-<!-- <u><a href="https://arxiv.org/abs/2303.14773" style="color: #009B8B; text-decoration: none;">[paper]</a></u> <u><a href="https://github.com/changdaeoh/BlackVIP" style="color: #009B8B; text-decoration: none;">[code]</a></u> \\ -->
 [[paper](https://arxiv.org/abs/2604.15708)] [[code](https://github.com/gyjung975/APC)] \\
 **Geunyoung Jung**, Soohong Kim, Inseok Kong, Jiyoung Jung \\
 CVPR 2026 Findings
 
 - **ReCoD: Enhancing Image Description for Cross-Modal Understanding via Retrieval and Comparison Feedback Mechanism** \\
-<!-- <u><a href="https://arxiv.org/abs/2303.14773" style="color: #009B8B; text-decoration: none;">[paper]</a></u> <u><a href="https://github.com/changdaeoh/BlackVIP" style="color: #009B8B; text-decoration: none;">[code]</a></u> \\ -->
 [[paper](https://www.sciencedirect.com/science/article/pii/S0925231226004224)] [[code](https://github.com/gyjung975/ReCoD)] \\
 **Geunyoung Jung**, Jun Park, Hankyeol Lee, Kyungwoo Song, Jiyoung Jung \\
 Neurocomputing 2026 (SCIE, JCR 2024 IF=6.5)
 
 - **P<sup>3</sup>T: Prototypical Point-level Prompt Tuning with Enhanced Generalization for 3D Vision-Language Models** \\
-<!-- <u><a href="https://arxiv.org/abs/2303.14773" style="color: #009B8B; text-decoration: none;">[paper]</a></u> <u><a href="https://github.com/changdaeoh/BlackVIP" style="color: #009B8B; text-decoration: none;">[code]</a></u> \\ -->
 [[paper](https://arxiv.org/abs/2604.15703)] [[code](https://github.com/gyjung975/P3T)] \\
 **Geunyoung Jung**, Soohong Kim, Kyungwoo Song, Jiyoung Jung \\
 ICRA 2026
 
 - **Enhancing Visual Classification using Comparative Descriptors** \\
-<!-- <u><a href="https://arxiv.org/abs/2303.14773" style="color: #009B8B; text-decoration: none;">[paper]</a></u> <u><a href="https://github.com/changdaeoh/BlackVIP" style="color: #009B8B; text-decoration: none;">[code]</a></u> \\ -->
 [[paper](https://arxiv.org/abs/2411.05357)] [[code](https://github.com/hk1ee/Comparative-CLIP)] \\
 Hankyeol Lee, Gawon Seo, Wonseok Choi, **Geunyoung Jung**, Kyungwoo Song, Jiyoung Jung \\
 WACV 2025
