@@ -109,8 +109,9 @@ CVPR 2023
   * CVPR 2025, 2026
   * ECCV 2026
   * NeurIPS 2026
-  * ICRA 2026
-  * WACV 2027
+  * ICLR 2027
+  * ICRA 2026, 2027
+  * MM 2026
   * BMVC 2025
 
 <!-- ## Projects
