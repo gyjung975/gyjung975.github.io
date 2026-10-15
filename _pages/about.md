@@ -56,6 +56,11 @@ Under review
 Under review
 -->
 
+- **SATOR: Backpropagation-Free 3D Test-Time Adaptation via Sample-Adaptive Token Routing** \\
+[paper] [code] \\
+Inseok Kong, **Geunyoung Jung**, Jiyoung Jung \\
+WACV 2027
+
 - **MAMVI: 3D Test-Time Adaptation via Masked Multi-View Point Clouds** \\
 [[paper](https://arxiv.org/abs/2606.12939)] [[code](https://github.com/Inseok-kong/MAMVI)] \\
 Inseok Kong, **Geunyoung Jung**, Jiyoung Jung \\
