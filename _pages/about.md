@@ -62,10 +62,12 @@ Under review
 Inseok Kong, **Geunyoung Jung**, Jiyoung Jung \\
 WACV 2027
 
+<!--
 - **MAMVI: 3D Test-Time Adaptation via Masked Multi-View Point Clouds** \\
 [[paper](https://arxiv.org/abs/2606.12939)] [[code](https://github.com/Inseok-kong/MAMVI)] \\
 Inseok Kong, **Geunyoung Jung**, Jiyoung Jung \\
 ICPR 2026
+-->
 
 - **Robust Adaptation of Foundation Models with Black-Box Visual Prompting** \\
 [[paper](https://arxiv.org/abs/2407.17491)] [code] \\
