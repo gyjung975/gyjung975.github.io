@@ -58,7 +58,7 @@ Under review
 -->
 
 - **SATOR: Backpropagation-Free 3D Test-Time Adaptation via Sample-Adaptive Token Routing** \\
-[paper] [code] \\
+[[paper](https://arxiv.org/abs/2610.21367)] [[code](https://github.com/Inseok-kong/SATOR)] \\
 Inseok Kong, **Geunyoung Jung**, Jiyoung Jung \\
 WACV 2027
 
