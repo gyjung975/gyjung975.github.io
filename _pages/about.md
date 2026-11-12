@@ -13,7 +13,7 @@ Hi! I am a Ph.D student in [Robotics and Computer Vision Lab](https://sites.goog
 
 My research focuses on **robust and efficient adaptation of 3D foundation models** for reliable deployment in real-world applications. I am particularly interested in 3D understanding under **challenging conditions**, such as distribution shifts and resource constraints.
 
-[[CV](https://drive.google.com/file/d/1NSBrPAel1UjeMM4QLK7ixEQ-RMy_7Xw/view?usp=sharing)]
+[[CV](https://drive.google.com/file/d/1oenePSJgyC8X-jh5IFU26KosUzj5Glmh/view?usp=sharing)]
 <!-- [[CV](https://drive.google.com/file/d/1NSBrPAel1UjeMM4QLK7ixEQ-RMy_7XwX/view?usp=sharing)] -->
 
 <!-- ## News
@@ -27,25 +27,16 @@ Mar. 2022 - present
 Mar. 2016 - Feb. 2022
 
 
-<!-- ## Awards & Honors -->
-<!-- - **Best Paper Award (President's prize)** \\
-University of Seoul, 2023
-- **Outstanding Presentation Award (Top-2), Data and AI-driven Chemicals Management Workshop** \\
-University of Seoul, 2023
-- **Student Travel Awards** \\
-KDD, 2022 -->
-<!-- - **Academic Excellence Scholarship (Top 5%)** \\
-Dept. of Statistics, University of Seoul, 2021
-- **Academic Excellence Scholarship (Top 5%)** \\
-Dept. of Statistics, University of Seoul, 2020 -->
-
-
 <!-- ## Work Experiences -->
 
 ## Publications
 <!-- (<span style="color:darkred">*conference*</span>, <span style="color: #3700FF">*journal*</span>) -->
 
-<!-- 
+- **Understanding and Generalizing Adversarial Purification for Robust 3D Point Cloud Recognition** \\
+[paper] [[code](https://github.com/gyjung975/AF-APC)] \\
+**Geunyoung Jung**, Jiyoung Jung \\
+Under review
+
 - **Class Topology Survives Corruption: Prior, Monitor, and Repair for 3D Continual Test-Time Adaptation** \\
 [paper] [[code](https://github.com/gyjung975/ToCoTTA)] \\
 **Geunyoung Jung**, Inseok Kong, Jiyoung Jung \\
@@ -55,7 +46,6 @@ Under review
 [paper] [[code](https://github.com/gyjung975/DGRe-FC)] \\
 **Geunyoung Jung**, Inseok Kong, Jiyoung Jung \\
 Under review
--->
 
 - **SATOR: Backpropagation-Free 3D Test-Time Adaptation via Sample-Adaptive Token Routing** \\
 [[paper](https://arxiv.org/abs/2610.21367)] [[code](https://github.com/Inseok-kong/SATOR)] \\
@@ -110,8 +100,6 @@ CVPR 2023
 
 <!-- ## Invited Talks -->
 
-<!-- ## Experiences -->
-
 ## Academic Service
 * Conference Reviewer:
   * CVPR 2025, 2026
@@ -120,7 +108,18 @@ CVPR 2023
   * ICLR 2027
   * ICRA 2026, 2027
   * MM 2026
-  * BMVC 2025
+
+## Awards & Honors
+- **Grand Prize**, Outstanding Student Paper Award \\
+University of Seoul, 2026
+<!-- - **Outstanding Presentation Award (Top-2), Data and AI-driven Chemicals Management Workshop** \\
+University of Seoul, 2023
+- **Student Travel Awards** \\
+KDD, 2022 -->
+<!-- - **Academic Excellence Scholarship (Top 5%)** \\
+Dept. of Statistics, University of Seoul, 2021
+- **Academic Excellence Scholarship (Top 5%)** \\
+Dept. of Statistics, University of Seoul, 2020 -->
 
 <!-- ## Projects
 - Trustworthy AI Model Research Using Causal Inference, June. 2022 - 
